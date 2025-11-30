@@ -1,3 +1,19 @@
 venv/
 __pycache__/
 *.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.log
+.idea/
+.vscode/
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.tmp
+
+
+# Ignore data files
